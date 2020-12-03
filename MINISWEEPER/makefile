@@ -10,7 +10,7 @@ src/MINISWEEPER.c\
 
 # All test source files
 TEST_SRC = src/MINISWEEPER.c\
-test/test_abcAnalysis.c
+test/test_sweeper.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
