@@ -6,8 +6,8 @@
 {
     printf("\t\tWelcome to Minesweeper\n");
     difficulty();
-    test_main();
-    getch();
+    test_sweeper();
+  
     return 0;
 }
 
